@@ -38,3 +38,14 @@ margin-top: -140px;
     width: 400px;
     height: auto;
 }
+
+#pokeInfo {
+    position: absolute;
+    text-align: left;
+    margin-top: 280px;
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 70%;
+    font-family: 'Turret Road', cursive;
+}
