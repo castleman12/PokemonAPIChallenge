@@ -1,0 +1,40 @@
+body {
+    background-image: url('background.png');
+    background-size: cover;
+    background-color: black;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pokedex {
+width: 700px;
+
+}
+
+label {
+    font-size: 35px;
+    color: white;
+    font-weight: 600;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+}
+
+#pokeImage {
+width: 175px;
+position:absolute;
+z-index: 3;
+margin-top: -140px;
+}
+
+.pokemonLogo {
+    width: 400px;
+    height: auto;
+}
